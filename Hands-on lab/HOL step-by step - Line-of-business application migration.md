@@ -237,7 +237,7 @@ In this task, you will configure the Azure Migrate appliance and use it to compl
 
 5. Log in with the Administrator password **demo!pass123** (the login screen may pick up your local keyboard mapping, use the 'eyeball' icon to check).
 
-6. **Wait.** After a minute or two, an Internet Explorer windows will open showing the Azure Migrate appliance configuration wizard. If the **Set up Internet Explorer 11** prompt is shown, select **OK** to accept the recommended settings. If the Internet Explorer **Content from the website listed below is being blocked...** prompt is shown, select **Close** and return to the Azure Migrate Appliance browser tab.
+6. **Wait** After a minute or two, a Internet Explorer windows will open showing the Azure Migrate appliance configuration wizard. If the **Set up Internet Explorer 11** prompt is shown, select **OK** to accept the recommended settings. If the Internet Explorer **Content from the website listed below is being blocked...** prompt is shown, select **Close** and return to the Azure Migrate Appliance browser tab.
 
     ![Screenshot of the opening step of the Azure Migrate appliance configuration wizard.](images/Exercise1/appliance-config-1.png)
 
@@ -634,17 +634,17 @@ In this task you will install and use Microsoft SQL Server Data Migration Assist
 
 2. Select **Add tool(s)** to open the **Add a tool** wizard.[NOTE: If you are not able to find **Add a tool** you will see a window like the image given below, please click on **Click Here** to Add Tools]
 
-    ![Screenshot showing the 'Select assessment tool' step of the 'Add a tool' wizard in Azure Migrate, with the 'Azure Migrate: Database Assessment' tool selected.](images/Exercise2/ex2t4.2.png)
+    ![Screenshot showing the 'Select assessment tool' step of the 'Add a tool' wizard in Azure Migrate, with the 'Azure Migrate: Database Assessment' tool selected.](images/Exercise2/ex2t4s2.png)
 
-3. Under **Select assessment tool**, select **Azure Migrate: Database Assessment**, then select **Next**.
+3. Under **Select assessment tool**, select **Azure Migrate: Database Assessment**, then select **Add tools**.
 
     ![Screenshot showing the 'Select assessment tool' step of the 'Add a tool' wizard in Azure Migrate, with the 'Azure Migrate: Database Assessment' tool selected.](images/Exercise2/add-db-assessment-tool.png)
 
-4. Under **Select migration tool**, select **Azure Migrate: Database Migration**, then select **Next**.
+4. Under **Select migration tool**, select **Azure Migrate: Database Migration**. 
 
     ![Screenshot showing the 'Select assessment tool' step of the 'Add a tool' wizard in Azure Migrate, with the 'Azure Migrate: Database Migration' tool selected.](images/Exercise2/add-db-migration-tool.png)
 
-5. Under **Review and add tools**, select **Add tool(s)**.
+5. Select **Add tool(s)**.
 
 6. Once the tools are installed in Azure Migrate, the portal should show the **Azure Migrate - Databases** blade. Under **Azure Migrate: Database Assessment** select **+ Assess**.
 
